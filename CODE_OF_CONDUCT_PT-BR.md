@@ -1,3 +1,13 @@
+<details>
+<summary>
+<strong> Read this guide in English </strong>
+</summary>
+    <ul>
+        <li><a href="./CODE_OF_CONDUCT.md"> English </a></li>
+    </ul>
+
+</details>
+
 # Código de Conduta do Convênio do Colaborador
 
 ## Nosso Compromisso
