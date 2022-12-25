@@ -1,3 +1,13 @@
+<details>
+<summary>
+<strong> Read this guide in English </strong>
+</summary>
+    <ul>
+        <li><a href="./SECURITY.md"> English </a></li>
+    </ul>
+
+</details>
+
 **Obrigado por ajudar a tornar o GitHub seguro para todos.**
 
 ## Segurança
