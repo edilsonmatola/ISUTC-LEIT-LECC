@@ -1,3 +1,13 @@
+<details>
+<summary>
+<strong> Read this guide in English </strong>
+</summary>
+    <ul>
+        <li><a href="./CONTRIBUTING.md"> English </a></li>
+    </ul>
+
+</details>
+
 # Requisitos para contribuir
 
 - Conhecimentos básicos de programação são obrigatórios.
@@ -11,8 +21,8 @@
 Se você quiser adicionar um recurso ou corrigir um bug, teremos o maior prazer em aceitar o PR! Pedimos apenas algumas coisas:
 
 - Certifique-se de que seu código não contém erros do analisador, por exemplo:
-   - O código é compatível com o modo forte.
-   - O código está livre de erros de lint.
+  - O código é compatível com o modo forte.
+  - O código está livre de erros de lint.
 - Formate seu código com `ms-python.python` para Python, `redhat.java` ou `./eclipse-java-google-style.xml` para Java e `esbenp.prettier-vscode` para HTML/CSS/JavaScript .
 - Escrever documentação útil.
 - Se você gostaria de fazer uma mudança maior/fundamental na base de código, envie um exemplo leve de PR/problema.

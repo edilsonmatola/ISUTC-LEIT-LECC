@@ -1,3 +1,13 @@
+<details>
+<summary>
+<strong> Leia este guia em Português </strong>
+</summary>
+    <ul>
+        <li><a href="./CONTRIBUTING_PT-BR.md"> Português </a></li>
+    </ul>
+
+</details>
+
 # Requirements to contribute
 
 - Basic knowledge of programming is mandatory.
