@@ -1,2 +1,13 @@
-# ISUTC-LEIT-LECC
-Coleção de avaliações escolares das cadeiras de programação 1,2, 3 e Web  dos cursos de LEIT e LECC no Instituto Superior de Transportes e Telecomunições (ISUTC)
+<details>
+<summary>
+<strong> Read this guide in English </strong>
+</summary>
+    <ul>
+        <li><a href="./README.md"> English </a></li>
+    </ul>
+
+</details>
+
+# Estrutura do Repositório
+
+![repository_structure](./.github/media/images/repository_structure.png)
