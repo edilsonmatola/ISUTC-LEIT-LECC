@@ -11,3 +11,5 @@
 # Estrutura do Repositório
 
 ![repository_structure](./.github/media/images/repository_structure.png)
+
+[Link da Estrutura do Repositório](https://whimsical.com/cursos-PFiyWGVHfhvKzhWmKDefT7)
