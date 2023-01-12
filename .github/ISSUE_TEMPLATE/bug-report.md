@@ -27,4 +27,5 @@ assignees: ''
 <!--- Inclua detalhes de seu ambiente de teste e os testes que você executou -->
 <!--- veja como sua mudança afeta outras áreas do código, etc. -->
 
-## Capturas de tela (screenshots, se apropriado):
+## Capturas de tela (screenshots, se necessário):
+<!--- Coloque fotos do bug, caso necessário. -->
