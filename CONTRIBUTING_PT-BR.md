@@ -16,6 +16,13 @@
 - Habilidades de UI/UX Design são apreciáveis, mas não obrigatórias.
 - Alguma ideia sobre SQL, JSP, XML, PHP ou vontade de aprender.
 
+# Diretrizes de Syntax dos ficheiros
+
+- **pastas:** nome_da_disciplina (ex: algoritmo_e_dados)
+- **mini-testes:** mini_teste_1_enunciado
+- **testes:** teste_1_enunciado
+- **exames:** exame_1_epoca_enunciado 
+
 # Diretrizes gerais de codificação
 
 Se você quiser adicionar um recurso ou corrigir um bug, teremos o maior prazer em aceitar o PR! Pedimos apenas algumas coisas:
